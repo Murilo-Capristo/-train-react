@@ -1,2 +1,2 @@
-# -train-javascript
-Repositório de exercicios e trabalhos para praticar javascript
+# -train-react
+Repositório de exercicios e trabalhos para praticar react
